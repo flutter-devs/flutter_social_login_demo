@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter_windows_v0.4.4-beta/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-2.0.9" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter_windows_v0.4.4-beta/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.3" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter_windows_v0.4.4-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_twitter_login-1.1.0" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter_windows_v0.4.4-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-1.1.1" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter_windows_v0.4.4-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.6.2+1" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter_windows_v0.4.4-beta/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-3.2.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
